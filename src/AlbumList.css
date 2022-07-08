@@ -1,0 +1,11 @@
+table {
+    width: 100%;
+    border:1px solid    
+}
+thead {
+    background-color: greenyellow;   
+}
+td {
+    border:1px solid;
+    text-align: center;    
+}
